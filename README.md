@@ -6,7 +6,7 @@ Size Marks is a helpful Photoshop script for web designers and front-end enginee
 
 Script converts rectangular marquee to labeled measurement mark. Landscape marquee ▸ horizontal mark. Portrait or square marquee ▸ vertical mark.
 
-# Install
+### Install
 
 1. Right click: [Size-Marks.jsx.zip] and choose `Download Linked File As...`.
 2. Unzip and place `Size Marks.jsx` in the Photoshop’s Scripts folder. For OS X: `/Applications/Adobe Photoshop CC 2014/Presets/Scripts/` and restart Photoshop.
@@ -15,7 +15,7 @@ Script converts rectangular marquee to labeled measurement mark. Landscape marqu
 
 [Size-Marks.jsx.zip]: https://cdn.rawgit.com/romashamin/Size-Marks-PS/master/Size-Marks.jsx.zip
 
-## Usage
+### Usage
 
 Create rectangular selection with Rectangular Marquee Tool (M) and use your shortcut (see Install section).
 
@@ -35,6 +35,8 @@ Script has been tested for Photoshop CC 2014 on OS X Yosemite. If you have troub
 
 ### For Satisfied Pro’s
 
-You’re web professional? Use Size Marks for free or buy me a cup of puer tea: [pay $3 by PayPal].
+If you’re professional web developer:
+* Use Size Marks for free and pay with a tweet/post
+* Buy me a cup of puer tea: [pay $3 by PayPal]
 
 [pay $3 by PayPal]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AWYVPVCBHEJXA

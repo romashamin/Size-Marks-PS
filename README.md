@@ -13,7 +13,7 @@ Script converts rectangular marquee to labeled measurement mark. Landscape marqu
 3. Now script is available in `File ▸ Scripts ▸ Size Marks`. Let’s make a shortcut.
 4. `Edit → Keyboard Shortcuts...`. Unwrap `File` and scroll to `Scripts>`. Select `Size Marks` and set shortcut. I recommend `Shift+Cmd+P (⇧⌘P)` — it must be available.
 
-[Size Marks.jsx]: Size%2520Marks.jsx
+[Size Marks.jsx]: https://github.com/romashamin/Size-Marks-PS/blob/master/Size%20Marks.jsx
 
 ## Usage
 

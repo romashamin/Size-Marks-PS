@@ -40,3 +40,7 @@ If you’re professional web developer:
 * Buy me a cup of puer tea: [pay $3 by PayPal]
 
 [pay $3 by PayPal]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AWYVPVCBHEJXA
+
+### License
+
+Copyright © 2014 Roman Shamin https://github.com/romashamin and licenced under the MIT licence. All rights not explicitly granted in the MIT license are reserved. See the included LICENSE file for more details.

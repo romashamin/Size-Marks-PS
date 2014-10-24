@@ -1,10 +1,12 @@
 # Size Marks
 
-<img align="center" width="256" height="256" src="images/Size-Marks-Icon-512.png" title="Size Marks logo">
+<img width="256" height="256" src="images/Size-Marks-Icon-512.png" title="Size Marks logo">
 
 Size Marks is a helpful Photoshop script for web designers and front-end engineers.
 
 Script converts rectangular marquee to labeled measurement mark. Landscape marquee ▸ horizontal mark. Portrait or square marquee ▸ vertical mark.
+
+<img width="735" height="307" src="images/size-marks-show.gif" title="Demonstration">
 
 ### Install
 

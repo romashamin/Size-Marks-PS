@@ -4,7 +4,7 @@
 
 Size Marks is a helpful Photoshop script for web designers and front-end engineers.
 
-Script converts rectangular marquee to labeled measurement mark. Landscape marquee ▸ horizontal mark. Portrait or square marquee ▸ vertical mark.
+Script converts rectangular marquee to labeled measurement mark. Landscape marquee → horizontal mark. Portrait or square marquee → vertical mark.
 
 <img width="735" height="307" src="images/size-marks-show.gif" title="Demonstration">
 
@@ -13,7 +13,7 @@ Script converts rectangular marquee to labeled measurement mark. Landscape marqu
 1. Right click: [Size-Marks.jsx.zip] and choose `Download Linked File As...`.
 2. Unzip and place `Size Marks.jsx` in the Photoshop’s Scripts folder. For OS X: `/Applications/Adobe Photoshop CC 2014/Presets/Scripts/` and restart Photoshop.
 3. Now script is available in `File ▸ Scripts ▸ Size Marks`. Let’s make a shortcut.
-4. `Edit → Keyboard Shortcuts...`. Unwrap `File` and scroll to `Scripts>`. Select `Size Marks` and set shortcut. I recommend `Shift+Cmd+P (⇧⌘P)` — it must be available.
+4. `Edit ▸ Keyboard Shortcuts...`. Unwrap `File` and scroll to `Scripts>`. Select `Size Marks` and set shortcut. I recommend `Shift+Cmd+P (⇧⌘P)` — it must be available.
 
 [Size-Marks.jsx.zip]: https://cdn.rawgit.com/romashamin/Size-Marks-PS/master/Size-Marks.jsx.zip
 
@@ -45,4 +45,6 @@ If you’re professional web developer:
 
 ### License
 
-Copyright © 2014 Roman Shamin https://github.com/romashamin and licenced under the MIT licence. All rights not explicitly granted in the MIT license are reserved. See the included LICENSE file for more details.
+Copyright © 2014 Roman Shamin https://github.com/romashamin
+
+Size Marks is licensed under the MIT licence. All rights not explicitly granted in the MIT license are reserved. See the included LICENSE file for more details.

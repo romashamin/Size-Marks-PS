@@ -43,6 +43,52 @@ If you’re professional web developer:
 
 [pay $3 by PayPal]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AWYVPVCBHEJXA
 
+### Testimonials [✍]
+
+[✍]: https://twitter.com/search?f=realtime&q=Size%20Marks&src=typd
+
+- Just what I needed. [⚑]
+<small>— Erik Myers, Mountain View, California.</small>
+
+[⚑]: https://twitter.com/endswithak/status/528967796491681793
+
+- Tu fais des maquettes/spéc sous Photoshop? Voila une petite extension sympa pour placer des marques de mesure. [✌]
+<small>— LegZ, Lyon, France.</small>
+
+[✌]: https://twitter.com/legz/status/528459513943564288
+
+- Перепробовал кучу всяких «образмеривалок» для Ps, но этот простейший скрипт пока кажется одним из самых юзабельных. [★]
+<small>— Андрей Сундиев, Яндекс, Москва.</small>
+
+[★]: https://twitter.com/ASundiev/status/526640119777083392
+
+- 選択範囲を作るだけで数値がレイヤーに書きだされる！？これは便利だ！ [☼]
+<small>— ヤマシタヒトシ, 愛知県あま市</small>
+
+[☼]: https://twitter.com/yamachan_ck/status/528374075224096768
+
+- Шикарная вещь, как я раньше жил без Size Marks. [☂]
+<small>— Александр Курганов, Санкт-Петербург.</small>
+
+[☂]: https://twitter.com/Akurganow/status/527734891144704000
+
+- Made my day! [♬]
+<small>— Michl, Germany, NRW.</small>
+
+[♬]: https://twitter.com/stil72/status/528092783169794049
+
+- 確かに作業指示書の作成が楽になりそう。ワンアクションで寸法線と値を書き出してくれるのは便利。 [⌘]
+<small>— Torii, 静岡県浜松市</small>
+
+[⌘]: https://twitter.com/torii/status/528000623921201153
+
+- Nice little PS plugin for handing over designs quickly. [✈]
+<small>— Sebastian Stockmarr, Copenhagen, Denmark.</small>
+
+[✈]: https://twitter.com/stockmarr/status/528897988220178432
+
+P. S. Thanks to all the users for the great feedback!
+
 ### License
 
 Copyright © 2014 Roman Shamin https://github.com/romashamin

@@ -10,27 +10,27 @@ Script converts rectangular marquee to labeled measurement mark. Landscape marqu
 
 ### Install
 
-1. Download and unzip: [Size-Marks.jsx-v0.1.1.zip].
-2. Place `Size Marks.jsx` in the Photoshop’s Scripts folder. If you have several versions of Photoshop, place the script for each of them.
+1. Download and unzip: [Size-Marks.jsx-v1.0.zip].
+2. Place `Size Marks.jsx` in the Photoshop Scripts folder. If you have more than one version of Photoshop, place the script in the Scripts folder of each version.
  - OS X: `/Applications/[Photoshop]/Presets/Scripts/`
  - Windows: `C:\[Program Files]\Adobe\[Photoshop]\Presets\Scripts`
-4. Restart Photoshop. Now script is available in `File ▸ Scripts ▸ Size Marks`.
-5. Let’s make a shortcut. `Edit ▸ Keyboard Shortcuts...`. Unwrap `File` and scroll to `Scripts>`. Select `Size Marks` and set shortcut.
+4. Restart Photoshop. The script should now be available in `File ▸ Scripts ▸ Size Marks`.
+5. Next, let’s make a shortcut. `Edit ▸ Keyboard Shortcuts...`. Unwrap `File` and scroll to `Scripts>`. Select `Size Marks` and set the shortcut.
 
 **Recommended shortcut key** (must not already be in use)
 
 - OS X: `Shift+Cmd+P`
 - Windows: `Shift+Ctrl+P`
 
-[Size-Marks.jsx-v0.1.1.zip]: https://cdn.rawgit.com/romashamin/Size-Marks-PS/master/Size-Marks.jsx-v0.1.1.zip
+[Size-Marks.jsx-v1.0.zip]: https://cdn.rawgit.com/romashamin/Size-Marks-PS/master/Size-Marks.jsx-v1.0.zip
 
 ### Usage
 
-Create rectangular selection with Rectangular Marquee Tool (M) and use your shortcut (see Install section).
+Create a rectangular selection with Rectangular Marquee Tool (M) and use your shortcut (see Install section).
 
 ### System Requirements
 
-Script has been tested for Photoshop CC 2014 on OS X Yosemite. If you have troubles, drop me a line: [@romanshamin].
+The script has been tested on Photoshop CC 2014 on OS X Yosemite. If you have any problems, drop me a line: [@romanshamin].
 
 [@romanshamin]: https://twitter.com/romanshamin
 
@@ -44,9 +44,9 @@ Script has been tested for Photoshop CC 2014 on OS X Yosemite. If you have troub
 
 ### For Satisfied Pro’s
 
-If you’re professional web developer:
+If you’re a professional web developer:
 * Use Size Marks for free and pay with a tweet/post
-* Buy me a cup of puer tea: [pay $3 by PayPal]
+* Buy me a cup of pu-erh tea: [pay $3 by PayPal]
 
 [pay $3 by PayPal]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AWYVPVCBHEJXA
 

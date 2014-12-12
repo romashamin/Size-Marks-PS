@@ -36,8 +36,8 @@ The script has been tested on Photoshop CC 2014 on OS X Yosemite. If you have an
 
 ### Thanks
 
-* [c.pfaffenbichler]
-* [Evil Martians]
+<a href="https://evilmartians.com/?utm_source=size-marks">
+<img src="https://evilmartians.com/badges/sponsored-by-evil-martians.svg" alt="Sponsored by Evil Martians" width="236" height="54"></a>
 
 [c.pfaffenbichler]: https://forums.adobe.com/people/c.pfaffenbichler
 [Evil Martians]: http://evilmartians.com/

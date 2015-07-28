@@ -52,7 +52,7 @@ if (docIsExist) {
 
 
 if (docIsExist && selIsExist) {
-    doc.suspendHistory("Add SizeMark", "makeSizeMark()");
+    doc.suspendHistory("Add Size Mark", "makeSizeMark()");
 }
 
 
@@ -158,7 +158,7 @@ function makeSizeMark() {
     app.preferences.typeUnits = store.typeUnits;
 
     pickTool('marqueeRectTool');
-    
+
     // HELPERS
 
     function makePoint(pnt) {
@@ -204,7 +204,7 @@ function makeSizeMark() {
         line.strokePath(ToolType.PENCIL);
         line.remove();
     }
-    
+
 
     function pickTool(toolName) {
         var idslct = charIDToTypeID('slct');

@@ -22,7 +22,7 @@ Script converts rectangular marquee to labeled measurement mark. Landscape marqu
 - OS X: `Shift+Cmd+P`
 - Windows: `Shift+Ctrl+P`
 
-[Size-Marks.jsx-v1.0.zip]: https://cdn.rawgit.com/romashamin/Size-Marks-PS/master/Size-Marks.jsx-v1.1.zip
+[Size-Marks.jsx-v1.1.zip]: https://cdn.rawgit.com/romashamin/Size-Marks-PS/master/Size-Marks.jsx-v1.1.zip
 
 ### Usage
 

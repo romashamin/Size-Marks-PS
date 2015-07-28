@@ -35,7 +35,7 @@ try {
     doc = app.activeDocument;
     docIsExist = true;
 } catch ( e ) {
-    alert( 'Size Mark Script: no document\n' +
+    alert( 'Size Marks Script: no document\n' +
            'Use File → New... to create one' );
 }
 
@@ -45,7 +45,7 @@ if ( docIsExist ) {
         selBounds  = doc.selection.bounds;
         selIsExist = true;
     } catch ( e ) {
-        alert( 'Size Mark Script: no selection\n' +
+        alert( 'Size Marks Script: no selection\n' +
                'Use Rectangular Marquee Tool (M) to create one' );
     }
 }

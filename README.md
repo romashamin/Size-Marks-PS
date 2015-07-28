@@ -10,8 +10,8 @@ Script converts rectangular marquee to labeled measurement mark. Landscape marqu
 
 ### Install
 
-1. Download and unzip: [Size-Marks.jsx-v1.1.zip].
-2. Place `Size Marks.jsx` in the Photoshop Scripts folder. If you have more than one version of Photoshop, place the script in the Scripts folder of each version.
+1. Download and unzip: [Size-Marks.jsxbin-v1.2.zip].
+2. Place `Size Marks.jsxbin` in the Photoshop Scripts folder. If you have more than one version of Photoshop, place the script in the Scripts folder of each version.
  - OS X: `/Applications/[Photoshop]/Presets/Scripts/`
  - Windows: `C:\[Program Files]\Adobe\[Photoshop]\Presets\Scripts`
 4. Restart Photoshop. The script should now be available in `File ▸ Scripts ▸ Size Marks`.
@@ -22,7 +22,7 @@ Script converts rectangular marquee to labeled measurement mark. Landscape marqu
 - OS X: `Shift+Cmd+P`
 - Windows: `Shift+Ctrl+P`
 
-[Size-Marks.jsx-v1.1.zip]: https://cdn.rawgit.com/romashamin/Size-Marks-PS/master/Size-Marks.jsx-v1.1.zip
+[Size-Marks.jsxbin-v1.2.zip]: https://cdn.rawgit.com/romashamin/Size-Marks-PS/master/Size-Marks.jsxbin-v1.2.zip
 
 ### Usage
 

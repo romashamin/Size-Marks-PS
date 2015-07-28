@@ -36,7 +36,7 @@ try {
     docIsExist = true;
 } catch (e) {
     alert('Size Marks Script: no document\n' +
-        'Use File → New... to create one');
+          'Use File → New... to create one');
 }
 
 
@@ -46,7 +46,7 @@ if (docIsExist) {
         selIsExist = true;
     } catch (e) {
         alert('Size Marks Script: no selection\n' +
-            'Use Rectangular Marquee Tool (M) to create one');
+              'Use Rectangular Marquee Tool (M) to create one');
     }
 }
 
@@ -57,6 +57,7 @@ if (docIsExist && selIsExist) {
 
 
 function makeSizeMark() {
+  try {
     var halfMark = 3,
         txtMargin = 5,
         baseRes = 72,
@@ -262,4 +263,7 @@ function makeSizeMark() {
         desc2.putObject(idT, idBrsh, desc3);
         executeAction(idsetd, desc2, DialogModes.NO);
     }
+  } catch (e) {
+    alert(e.line + '\n' + e)
+  }
 }

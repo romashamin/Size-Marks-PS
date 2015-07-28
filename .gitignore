@@ -8,3 +8,4 @@ database.yml
 .idea
 .secret
 .sass-cache
+hidden

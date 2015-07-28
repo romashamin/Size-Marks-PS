@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.1 (2015-07-28)
+
+* Fixed Photoshop CC 2015 artboards issue (Error 8182). Thanks @nvkzNemo (#17).
+
 ### 1.0 (2014-11-16)
 
 * Limited decimal places: enjoy `39.7 pt` instead of `39.72413793 pt`. Anyway, I recommend keep a document’s resolution as a multiple of 72 ppi (#3)

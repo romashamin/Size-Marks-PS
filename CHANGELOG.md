@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.2 (2015-07-28)
+
+* One line in History panel. Thanks @nvkzNemo.
+
 ### 1.1 (2015-07-28)
 
 * Fixed Photoshop CC 2015 artboards issue (Error 8182). Thanks @nvkzNemo (#17).

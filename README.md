@@ -30,7 +30,7 @@ Create a rectangular selection with Rectangular Marquee Tool (M) and use your sh
 
 ### System Requirements
 
-The script has been tested on Photoshop CC 2014 on OS X Yosemite. If you have any problems, drop me a line: [@romanshamin].
+The script has been tested on Photoshop CC 2014, CC 2015 on OS X Yosemite. If you have any problems, drop me a line: [@romanshamin].
 
 [@romanshamin]: https://twitter.com/romanshamin
 

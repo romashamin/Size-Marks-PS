@@ -63,8 +63,7 @@ if ( docIsExist && selIsExist ) {
         scale         = setScaleF( scaleRatio ),
         realUnits     = 'px',
         scaledUnits   = 'pt',
-
-        // Thin space: \u2009, hair space: \u200A
+        /* Thin space: \u2009, hair space: \u200A */
         charThinSpace = '\u200A';
 
     var selX1 = selBounds[0].value,
@@ -153,7 +152,7 @@ if ( docIsExist && selIsExist ) {
     txtLayer.rasterize(RasterizeType.TEXTCONTENTS);
     txtLayer.move(markLayer, ElementPlacement.PLACEBEFORE);
     txtLayer.opacity = layerOpacity;
-    
+
     // FIXME: name layer with scale( val )
     txtLayer.merge().name = layerNamePrefix + val;
 

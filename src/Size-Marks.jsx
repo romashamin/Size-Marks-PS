@@ -123,6 +123,8 @@ function makeSizeMark() {
     markLayer.move(store.activeLayer, ElementPlacement.PLACEBEFORE);
 
     // Draw label
+    disableArtboardAutoNest();
+
     var txtLayer = makeTextLayer(),
         txtLayerItem = txtLayer.textItem;
 
@@ -157,6 +159,8 @@ function makeSizeMark() {
 
     app.preferences.rulerUnits = store.rulerUnits;
     app.preferences.typeUnits = store.typeUnits;
+
+    enableArtboardAutoNest();
 
     pickTool('marqueeRectTool');
 
@@ -231,6 +235,38 @@ function makeSizeMark() {
         desc.putObject(app.charIDToTypeID('Usng'), app.charIDToTypeID('TxLr'), desc2);
         executeAction(app.charIDToTypeID('Mk  '), desc, DialogModes.NO);
         return doc.activeLayer
+    }
+
+
+    function disableArtboardAutoNest() {
+        var ideditArtboardEvent = stringIDToTypeID( "editArtboardEvent" );
+        var desc3 = new ActionDescriptor();
+        var idnull = charIDToTypeID( "null" );
+            var ref2 = new ActionReference();
+            var idLyr = charIDToTypeID( "Lyr " );
+            var idOrdn = charIDToTypeID( "Ordn" );
+            var idTrgt = charIDToTypeID( "Trgt" );
+            ref2.putEnumerated( idLyr, idOrdn, idTrgt );
+        desc3.putReference( idnull, ref2 );
+        var idautoNestEnabled = stringIDToTypeID( "autoNestEnabled" );
+        desc3.putBoolean( idautoNestEnabled, false );
+        executeAction( ideditArtboardEvent, desc3, DialogModes.NO );
+    }
+
+
+    function enableArtboardAutoNest() {
+        var ideditArtboardEvent = stringIDToTypeID( "editArtboardEvent" );
+        var desc3 = new ActionDescriptor();
+        var idnull = charIDToTypeID( "null" );
+            var ref2 = new ActionReference();
+            var idLyr = charIDToTypeID( "Lyr " );
+            var idOrdn = charIDToTypeID( "Ordn" );
+            var idTrgt = charIDToTypeID( "Trgt" );
+            ref2.putEnumerated( idLyr, idOrdn, idTrgt );
+        desc3.putReference( idnull, ref2 );
+        var idautoNestEnabled = stringIDToTypeID( "autoNestEnabled" );
+        desc3.putBoolean( idautoNestEnabled, true );
+        executeAction( ideditArtboardEvent, desc3, DialogModes.NO );
     }
 
 

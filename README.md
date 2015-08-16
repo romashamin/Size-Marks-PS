@@ -30,9 +30,29 @@ Create a rectangular selection with Rectangular Marquee Tool (M) and use your sh
 
 ### System Requirements
 
-The script has been tested on Photoshop CC 2014, CC 2015 on OS X Yosemite. If you have any problems, drop me a line: [@romanshamin].
+The script has been tested on Photoshop CC 2014, CC 2015 on OS X Yosemite.
 
-[@romanshamin]: https://twitter.com/romanshamin
+### Troubleshooting
+
+If it seems like Size Marks does not work properly, first, make sure you are using the latest version of the script.
+
+[Get the latest release](https://github.com/romashamin/Size-Marks-PS/releases/latest).
+
+#### Required information
+
+1. The version of your Photoshop CC. Select `Photoshop CC ▸ About Photoshop CC...` and find out a line that looks like `2015.0.1 Release` at the top of the appeared window.
+2. A sequence of steps that helps me to reproduce the issue.
+3. Link to the .psd file in your Dropbox. Just remove all secret data and save as a copy.
+
+#### How to report
+
+1. Open the [Issues tab](https://github.com/romashamin/Size-Marks-PS/issues) and click **New issue**.
+2. Sign in or register on Github.
+3. Briefly describe the issue in the Title field.
+	- **Do:** It does not create a text label on the second artboard
+	- **Don’t:** Help! It doesn't work!!1
+4. Place full description (see Required information above) into the next field, attach screenshots and hit **Submit new issue**.
+5. Optional. [☕️ **Buy me**](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AWYVPVCBHEJXA) a cup of coffee to give me extra energy.
 
 ### Thanks
 

@@ -1,5 +1,5 @@
 /**
- * Size Marks 1.2
+ * Size Marks 1.3
  *
  * Copyright (c) 2014 Roman Shamin https://github.com/romashamin
  * and licenced under the MIT licence. All rights not explicitly

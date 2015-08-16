@@ -1,5 +1,11 @@
 # CHANGELOG
 
+### 1.3 (2015-08-16)
+
+* Fixes label positioning for several artboards (#21)
+* Restores the ability to change an opacity of the layer
+* Improves layer naming
+
 ### 1.2 (2015-07-28)
 
 * One line in History panel. Thanks @nvkzNemo.

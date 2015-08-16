@@ -154,8 +154,7 @@ function makeSizeMark() {
     txtLayer.move(markLayer, ElementPlacement.PLACEBEFORE);
 
     var finalLayer = txtLayer.merge();
-    // FIXME: name layer with scale( val )
-    finalLayer.name = layerNamePrefix + val;
+    finalLayer.name = layerNamePrefix + ' ' + label;
     finalLayer.opacity = layerOpacity;
 
     app.preferences.rulerUnits = store.rulerUnits;

@@ -205,7 +205,8 @@ function makeSizeMark() {
         spi.operation = ShapeOperation.SHAPEXOR;
         spi.entireSubPath = [startPoint, stopPoint];
 
-        var line = doc.pathItems.add('Line', [spi]);
+        var uniqueName = 'Line ' + Date.now();
+        var line = doc.pathItems.add(uniqueName, [spi]);
         line.strokePath(ToolType.PENCIL);
         line.remove();
     }

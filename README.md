@@ -43,9 +43,9 @@ If it seems like Size Marks does not work properly, first, make sure you are usi
 
 #### Required information
 
-1. The version of your Photoshop CC. Select `Photoshop CC ▸ About Photoshop CC...` and find out a line that looks like `2015.0.1 Release` at the top of the appeared window.
-2. A sequence of steps that helps me to reproduce the issue.
-3. Link to the .psd file in your Dropbox. Just remove all secret data and save as a copy.
+1. Your version of Photoshop CC. Select `Photoshop CC ▸ About Photoshop CC...` and find out a line that looks like `2015.0.1 Release` at the top of the dialog box.
+2. The sequence of steps that led to the error (this will help me to reproduce the issue).
+3. Provide a link to the .psd file in your Dropbox. Just remove all secret data and save as a copy.
 
 #### How to report
 
@@ -54,7 +54,7 @@ If it seems like Size Marks does not work properly, first, make sure you are usi
 3. Briefly describe the issue in the Title field.
 	- **Do:** It does not create a text label on the second artboard
 	- **Don’t:** Help! It doesn't work!!1
-4. Place full description (see Required information above) into the next field, attach screenshots and hit **Submit new issue**.
+4. Place the full description (see Required information above) into the next field, attach screenshots and hit **Submit new issue**.
 5. Optional. [☕️ **Buy me**](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AWYVPVCBHEJXA) a cup of coffee to give me extra energy.
 
 ### Thanks

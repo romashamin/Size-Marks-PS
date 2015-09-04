@@ -17,7 +17,7 @@ Script converts rectangular marquee to labeled measurement mark. Landscape marqu
 	- OS X: `/Applications/[Photoshop]/Presets/Scripts/`
 	- Windows: `C:\[Program Files]\Adobe\[Photoshop]\Presets\Scripts`
 4. Restart Photoshop. The script should now be available in `File ▸ Scripts ▸ Size Marks`.
-5. Next, let’s make a shortcut. `Edit ▸ Keyboard Shortcuts...`. Unwrap `File` and scroll to `Scripts>`. Select `Size Marks` and set the shortcut.
+5. Next, let’s make a shortcut. `Edit ▸ Keyboard Shortcuts...`. Unfold `File` and scroll to `Scripts>`. Select `Size Marks` and set the shortcut.
 
 **Recommended shortcut key** (must not already be in use)
 
